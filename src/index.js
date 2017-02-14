@@ -1,5 +1,4 @@
 import styles from './styles/main.scss'
 import map01 from './scripts/01-map.js'
 import filter02 from './scripts/02-filter.js'
-import find03 from './scripts/03-find.js'
-import reduce04 from './scripts/04-reduce.js'
+import reduce03 from './scripts/03-reduce.js'
